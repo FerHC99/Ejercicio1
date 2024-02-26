@@ -26,6 +26,8 @@ namespace Ejercicio1
 
             IProyecto proyecto1 = new Proyecto();
             proyecto1.Mensaje("Aceria", 1, 2, "23/02/24");
+
+            Console.ReadLine();
         }
     }
 }
